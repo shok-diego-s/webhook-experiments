@@ -9,6 +9,8 @@ packages = [{include = "templates_sdk"}]
 [tool.poetry.dependencies]
 python = "^3.9"
 shimoku-api-python = "1.1"
+zappa = "^0.57.0"
+flask = "^2.3.3"
 
 
 [build-system]

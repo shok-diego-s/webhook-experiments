@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "main.shimoku_plot",
+        "aws_region": "eu-west-1",
+        "profile_name": "default",
+        "project_name": "template-zappa",
+        "runtime": "python3.9",
+        "s3_bucket": "template-zappa"
+    }
+}
